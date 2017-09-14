@@ -141,7 +141,7 @@ PlayerSettings:
   targetPixelDensity: 0
   resolutionScalingMode: 0
   applicationIdentifier:
-    Android: com.AleNorfo.MemoryCarla
+    Android: com.AleNorfo.CustomMemory
     Standalone: com.AleNorfo.CustomMemory
   buildNumber: {}
   AndroidBundleVersionCode: 1
